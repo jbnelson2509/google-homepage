@@ -1,0 +1,1 @@
+This is a practice file to create (or recreate, rather) the Google homepage.
